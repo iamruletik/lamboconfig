@@ -12,6 +12,7 @@
     "vite": "^7.2.6"
   },
   "dependencies": {
+    "all": "^0.0.0",
     "three": "^0.181.2",
     "tweakpane": "^4.0.5",
     "vite-plugin-restart": "^2.0.0",
